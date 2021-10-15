@@ -1,0 +1,225 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="veerdhawal.com" resolutions="1x" timestamp="1610749530178">
+  <folder name="assets">
+    <file name="nexuiz_garden.pdf" crc="317828218" seo="true" mt="1545582301000"/>
+    <file name="nexuiz_facility.pdf" crc="4087223409" seo="true" mt="1545555634000"/>
+    <file name="shadowgundeadzone_facility.pdf" crc="4061413028" seo="true" mt="1545579924000"/>
+    <file name="shadowgundeadzone---hq.pdf" crc="40483667" seo="true" mt="1545599420000"/>
+    <file name="elementalgdd.pdf" crc="351733483" seo="true" mt="1545634087000"/>
+    <file name="veerdhawal_khanvilkar_cv.docx" crc="244028188" seo="true" mt="1608966092000"/>
+    <file name="veerdhawal_khanvilkar_cv.pdf" crc="297915336" seo="true" mt="1608978040000"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="4112564399" ref="maskgun:blogs:towerconquest:index:ninjumpdash:about:pop2:krishnarun:monstertruck:rise-of-defenders:nexuiz_garden:nexuiz_facility:shadowgundeadzone_facility:shadowgundeadzone_hq:elementalgame:personalprojects:rival-stars-horse-racing:home-copy:battle-champions:personalprojects-copy:personalprojects-copy-2"/>
+    <file name="maskgun.css" crc="416628052" ref="maskgun"/>
+    <file name="blogs.css" crc="401945257" ref="blogs"/>
+    <file name="towerconquest.css" crc="267038216" ref="towerconquest"/>
+    <file name="index.css" crc="4048406098" ref="index"/>
+    <file name="ninjumpdash.css" crc="268844819" ref="ninjumpdash"/>
+    <file name="about.css" crc="223373403" ref="about"/>
+    <file name="pop2.css" crc="3843933704" ref="pop2"/>
+    <file name="krishnarun.css" crc="4077368075" ref="krishnarun"/>
+    <file name="monstertruck.css" crc="490544234" ref="monstertruck"/>
+    <file name="rise-of-defenders.css" crc="3886161530" ref="rise-of-defenders"/>
+    <file name="nexuiz_garden.css" crc="124014157" ref="nexuiz_garden"/>
+    <file name="nexuiz_facility.css" crc="3937104728" ref="nexuiz_facility"/>
+    <file name="shadowgundeadzone_facility.css" crc="372823106" ref="shadowgundeadzone_facility"/>
+    <file name="shadowgundeadzone_hq.css" crc="4030560029" ref="shadowgundeadzone_hq"/>
+    <file name="elementalgame.css" crc="3810974992" ref="elementalgame"/>
+    <file name="personalprojects.css" crc="137264822" ref="personalprojects"/>
+    <file name="rival-stars-horse-racing.css" crc="28304012" ref="rival-stars-horse-racing"/>
+    <file name="home-copy.css" crc="4244430723" ref="home-copy"/>
+    <file name="battle-champions.css" crc="166976464" ref="battle-champions"/>
+    <file name="personalprojects-copy.css" crc="351378931" ref="personalprojects-copy"/>
+    <file name="personalprojects-copy-2.css" crc="128198181" ref="personalprojects-copy-2"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:blogs:maskgun:towerconquest:ninjumpdash:about:pop2:monstertruck:rise-of-defenders:krishnarun:nexuiz_garden:nexuiz_facility:shadowgundeadzone_facility:shadowgundeadzone_hq:elementalgame:personalprojects:rival-stars-horse-racing:home-copy:battle-champions:personalprojects-copy:personalprojects-copy-2"/>
+    <file name="museutils.js" crc="163421577" ref="index:blogs:maskgun:towerconquest:ninjumpdash:about:pop2:monstertruck:rise-of-defenders:krishnarun:nexuiz_garden:nexuiz_facility:shadowgundeadzone_facility:shadowgundeadzone_hq:elementalgame:personalprojects:rival-stars-horse-racing:home-copy:battle-champions:personalprojects-copy:personalprojects-copy-2"/>
+    <file name="whatinput.js" crc="86476730" ref="index:blogs:maskgun:towerconquest:ninjumpdash:about:pop2:monstertruck:rise-of-defenders:krishnarun:nexuiz_garden:nexuiz_facility:shadowgundeadzone_facility:shadowgundeadzone_hq:elementalgame:personalprojects:rival-stars-horse-racing:home-copy:battle-champions:personalprojects-copy:personalprojects-copy-2"/>
+    <file name="museconfig.js" crc="168988563" ref="index:blogs:maskgun:towerconquest:ninjumpdash:about:pop2:monstertruck:rise-of-defenders:krishnarun:nexuiz_garden:nexuiz_facility:shadowgundeadzone_facility:shadowgundeadzone_hq:elementalgame:personalprojects:rival-stars-horse-racing:home-copy:battle-champions:personalprojects-copy:personalprojects-copy-2"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:blogs:maskgun:towerconquest:ninjumpdash:about:pop2:monstertruck:rise-of-defenders:krishnarun:nexuiz_garden:nexuiz_facility:shadowgundeadzone_facility:shadowgundeadzone_hq:elementalgame:personalprojects:rival-stars-horse-racing:home-copy:battle-champions:personalprojects-copy:personalprojects-copy-2"/>
+    <file name="require.js" crc="244322403" ref="index:blogs:maskgun:towerconquest:ninjumpdash:about:pop2:monstertruck:rise-of-defenders:krishnarun:nexuiz_garden:nexuiz_facility:shadowgundeadzone_facility:shadowgundeadzone_hq:elementalgame:personalprojects:rival-stars-horse-racing:home-copy:battle-champions:personalprojects-copy:personalprojects-copy-2"/>
+    <file name="webpro.js" crc="3848665353" ref="maskgun:towerconquest:ninjumpdash:pop2:monstertruck:rise-of-defenders:krishnarun:nexuiz_garden:nexuiz_facility:shadowgundeadzone_facility:shadowgundeadzone_hq:rival-stars-horse-racing"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="maskgun:towerconquest:ninjumpdash:pop2:monstertruck:rise-of-defenders:krishnarun:nexuiz_garden:nexuiz_facility:shadowgundeadzone_facility:shadowgundeadzone_hq:rival-stars-horse-racing"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="maskgun:towerconquest:ninjumpdash:pop2:monstertruck:rise-of-defenders:krishnarun:nexuiz_garden:nexuiz_facility:shadowgundeadzone_facility:shadowgundeadzone_hq:rival-stars-horse-racing"/>
+    <file name="touchswipe.js" crc="404375771" ref="maskgun:towerconquest:ninjumpdash:pop2:monstertruck:rise-of-defenders:krishnarun:nexuiz_garden:nexuiz_facility:shadowgundeadzone_facility:shadowgundeadzone_hq:rival-stars-horse-racing"/>
+  </folder>
+  <folder name="images">
+    <file name="ninjump dash.jpg" crc="3973920966" seo="true" ref="index:home-copy"/>
+    <file name="prince-of-persia-the-shadow-and-the-flame-online-hack-1400x787-28.jpg" crc="477781522" seo="true" ref="index:home-copy"/>
+    <file name="monstertruck.jpg" crc="301475081" seo="true" ref="index:home-copy"/>
+    <file name="riseofdefenders-1400x787-74.jpg" crc="131407423" seo="true" ref="index:home-copy"/>
+    <file name="krishnarun.jpg" crc="4054458481" seo="true" ref="index:home-copy"/>
+    <file name="nexsuiz_garden_atarvirta.jpg" crc="4011003765" seo="true" ref="personalprojects:personalprojects-copy:personalprojects-copy-2"/>
+    <file name="nexuiz_facility.jpg" crc="448119615" seo="true" ref="personalprojects:personalprojects-copy:personalprojects-copy-2"/>
+    <file name="shadowgundeadzone_facility.jpg" crc="471511195" seo="true" ref="personalprojects:personalprojects-copy:personalprojects-copy-2"/>
+    <file name="shadowgundeadzone_thehq.jpg" crc="3781639030" seo="true" ref="personalprojects:personalprojects-copy:personalprojects-copy-2"/>
+    <file name="elementalpreview-1400x843-68.jpg" crc="3788231452" seo="true" ref="personalprojects:personalprojects-copy:personalprojects-copy-2"/>
+    <file name="gamasutraicon.png" crc="140315415" seo="true" ref="blogs"/>
+    <file name="app-store-button.png" crc="536178974" seo="true" ref="maskgun:towerconquest:rival-stars-horse-racing"/>
+    <file name="googleplaybutton.png" crc="4259335112" seo="true" ref="maskgun:towerconquest:krishnarun:rival-stars-horse-racing"/>
+    <file name="maskgunhomescreen.jpg" crc="1789571" seo="true" ref="maskgun"/>
+    <file name="blank.gif" crc="4208392903" ref="maskgun:towerconquest:ninjumpdash:pop2:monstertruck:rise-of-defenders:krishnarun:nexuiz_garden:nexuiz_facility:shadowgundeadzone_facility:shadowgundeadzone_hq:rival-stars-horse-racing"/>
+    <file name="maskgunloadout.jpg" crc="116609744" seo="true" ref="maskgun"/>
+    <file name="maskguncrafting.jpg" crc="48235203" seo="true" ref="maskgun"/>
+    <file name="maskguninventory.jpg" crc="4044086056" seo="true" ref="maskgun"/>
+    <file name="maskgunlighthouse.jpg" crc="4167143419" seo="true" ref="maskgun"/>
+    <file name="u2852.png" crc="328696067" ref="maskgun"/>
+    <file name="u2852-r.png" crc="4051524795" ref="maskgun"/>
+    <file name="u2856.png" crc="43641326" ref="maskgun"/>
+    <file name="u2856-r.png" crc="4180955575" ref="maskgun"/>
+    <file name="loading.gif" crc="3815509949" ref="maskgun:towerconquest:ninjumpdash:pop2:monstertruck:rise-of-defenders:krishnarun:nexuiz_garden:nexuiz_facility:shadowgundeadzone_facility:shadowgundeadzone_hq:rival-stars-horse-racing"/>
+    <file name="homescreen.jpg" crc="4060230713" seo="true" ref="towerconquest"/>
+    <file name="dailychallenge.jpg" crc="298952933" seo="true" ref="towerconquest"/>
+    <file name="challengeoffer.jpg" crc="4039956882" seo="true" ref="towerconquest"/>
+    <file name="ingame.jpg" crc="422315584" seo="true" ref="towerconquest"/>
+    <file name="armyscreen.jpg" crc="4255680533" seo="true" ref="towerconquest"/>
+    <file name="unitscreen.jpg" crc="354233398" seo="true" ref="towerconquest"/>
+    <file name="u3307.png" crc="328696067" ref="towerconquest"/>
+    <file name="u3307-r.png" crc="4051524795" ref="towerconquest"/>
+    <file name="u3314.png" crc="43641326" ref="towerconquest"/>
+    <file name="u3314-r.png" crc="4180955575" ref="towerconquest"/>
+    <file name="videoicon.png" crc="480715266" seo="true" ref="ninjumpdash:pop2:monstertruck"/>
+    <file name="img-2652-2000x1124-53.png" crc="112762751" seo="true" ref="ninjumpdash"/>
+    <file name="img-2655-2000x1124-50.png" crc="3920573575" seo="true" ref="ninjumpdash"/>
+    <file name="img-2657-2000x1124-80.png" crc="203664492" seo="true" ref="ninjumpdash"/>
+    <file name="img-2658-2000x1124-57.png" crc="299466688" seo="true" ref="ninjumpdash"/>
+    <file name="u3590.png" crc="328696067" ref="ninjumpdash"/>
+    <file name="u3590-r.png" crc="4051524795" ref="ninjumpdash"/>
+    <file name="u3628.png" crc="43641326" ref="ninjumpdash"/>
+    <file name="u3628-r.png" crc="4180955575" ref="ninjumpdash"/>
+    <file name="a-master-favicon.ico" crc="16902103" ref="index:battle-champions:personalprojects"/>
+    <file name="portrait.jpg" crc="3794271606" seo="true" ref="about"/>
+    <file name="square-linkedin-512.png" crc="401120404" seo="true" ref="about"/>
+    <file name="mailicon.png" crc="93151294" seo="true" ref="about"/>
+    <file name="01.jpg" crc="95564530" seo="true" ref="pop2"/>
+    <file name="02.jpg" crc="357019873" seo="true" ref="pop2"/>
+    <file name="03.jpg" crc="392750982" seo="true" ref="pop2"/>
+    <file name="04.jpg" crc="3894618548" seo="true" ref="pop2"/>
+    <file name="05.jpg" crc="4215268488" seo="true" ref="pop2"/>
+    <file name="06.jpg" crc="424159395" seo="true" ref="pop2"/>
+    <file name="u4033.png" crc="328696067" ref="pop2"/>
+    <file name="u4033-r.png" crc="4051524795" ref="pop2"/>
+    <file name="u4027.png" crc="43641326" ref="pop2"/>
+    <file name="u4027-r.png" crc="4180955575" ref="pop2"/>
+    <file name="monstertruck2.jpg" crc="405151173" seo="true" ref="monstertruck"/>
+    <file name="screenshot01-2000x1345-35.jpg" crc="525198316" seo="true" ref="monstertruck"/>
+    <file name="4dhmapvafstwke-xsviv5ttavlxybucn-2000x1345-17.jpg" crc="4123654792" seo="true" ref="monstertruck"/>
+    <file name="u4339.png" crc="328696067" ref="monstertruck"/>
+    <file name="u4339-r.png" crc="4051524795" ref="monstertruck"/>
+    <file name="u4342.png" crc="43641326" ref="monstertruck"/>
+    <file name="u4342-r.png" crc="4180955575" ref="monstertruck"/>
+    <file name="img-2699-2000x1124-36.jpg" crc="3820499129" seo="true" ref="rise-of-defenders"/>
+    <file name="img-2698-2000x1124-76.jpg" crc="3860903920" seo="true" ref="rise-of-defenders"/>
+    <file name="img-2705-2000x1124-35.jpg" crc="345904006" seo="true" ref="rise-of-defenders"/>
+    <file name="img-2753-2000x1124-2.jpg" crc="474810712" seo="true" ref="rise-of-defenders"/>
+    <file name="img-2762-2000x1124-75.jpg" crc="196615336" seo="true" ref="rise-of-defenders"/>
+    <file name="img-2710-2000x1124-32.jpg" crc="4271942738" seo="true" ref="rise-of-defenders"/>
+    <file name="img-2711-2000x1124-1.jpg" crc="529499084" seo="true" ref="rise-of-defenders"/>
+    <file name="u4508.png" crc="328696067" ref="rise-of-defenders"/>
+    <file name="u4508-r.png" crc="4051524795" ref="rise-of-defenders"/>
+    <file name="u4511.png" crc="43641326" ref="rise-of-defenders"/>
+    <file name="u4511-r.png" crc="4180955575" ref="rise-of-defenders"/>
+    <file name="u4611.png" crc="328696067" ref="krishnarun"/>
+    <file name="u4611-r.png" crc="4051524795" ref="krishnarun"/>
+    <file name="u4614.png" crc="43641326" ref="krishnarun"/>
+    <file name="u4614-r.png" crc="4180955575" ref="krishnarun"/>
+    <file name="krishna04-2000x1134-28.png" crc="4022077000" seo="true" ref="krishnarun"/>
+    <file name="krishna01-2000x1134-17.png" crc="3838067366" seo="true" ref="krishnarun"/>
+    <file name="krishna05-2000x1134-32.png" crc="3863225975" seo="true" ref="krishnarun"/>
+    <file name="krishna02-2000x1134-75.png" crc="3815693148" seo="true" ref="krishnarun"/>
+    <file name="krishna03-2000x1134-99.png" crc="4288930904" seo="true" ref="krishnarun"/>
+    <file name="krishna06-2000x1134-18.png" crc="4029641099" seo="true" ref="krishnarun"/>
+    <file name="krishna07-2000x1134-2.png" crc="3985017697" seo="true" ref="krishnarun"/>
+    <file name="steamworkshop.jpg" crc="4219956539" seo="true" ref="nexuiz_garden:nexuiz_facility"/>
+    <file name="pdf-icon-png-2059.png" crc="99139013" seo="true" ref="nexuiz_garden:about:nexuiz_facility:shadowgundeadzone_facility:shadowgundeadzone_hq:elementalgame"/>
+    <file name="4-2000x1106-30.jpg" crc="3909953243" seo="true" ref="nexuiz_garden"/>
+    <file name="03-updated-plan-1400x1050-86.jpg" crc="3779028141" seo="true" ref="nexuiz_garden"/>
+    <file name="3-2000x1108-6.jpg" crc="3779192999" seo="true" ref="nexuiz_garden"/>
+    <file name="5-2000x1107-86.jpg" crc="4078963879" seo="true" ref="nexuiz_garden"/>
+    <file name="6-2000x1109-98.jpg" crc="4291793602" seo="true" ref="nexuiz_garden"/>
+    <file name="u4955.png" crc="328696067" ref="nexuiz_garden"/>
+    <file name="u4955-r.png" crc="4051524795" ref="nexuiz_garden"/>
+    <file name="u4921.png" crc="43641326" ref="nexuiz_garden"/>
+    <file name="u4921-r.png" crc="4180955575" ref="nexuiz_garden"/>
+    <file name="2000px-ms_word_doc_iconsvg.png" crc="364463700" seo="true" ref="about"/>
+    <file name="seconditeration-01-1400x1300-95.jpg" crc="3811238939" seo="true" ref="nexuiz_facility"/>
+    <file name="screenshot-01-1400x821-72.jpg" crc="25349250" seo="true" ref="nexuiz_facility"/>
+    <file name="screenshot-02-2000x1174-77.jpg" crc="4281382087" seo="true" ref="nexuiz_facility"/>
+    <file name="screenshot-07-2000x1103-75.jpg" crc="218829537" seo="true" ref="nexuiz_facility"/>
+    <file name="screenshot-08-2000x1174-97.jpg" crc="3965603178" seo="true" ref="nexuiz_facility"/>
+    <file name="u5123.png" crc="328696067" ref="nexuiz_facility"/>
+    <file name="u5123-r.png" crc="4051524795" ref="nexuiz_facility"/>
+    <file name="u5136.png" crc="43641326" ref="nexuiz_facility"/>
+    <file name="u5136-r.png" crc="4180955575" ref="nexuiz_facility"/>
+    <file name="download icon.png" crc="311779841" seo="true" ref="shadowgundeadzone_facility:shadowgundeadzone_hq"/>
+    <file name="facility-preview-1400x789.jpg" crc="4041758587" seo="true" ref="shadowgundeadzone_facility"/>
+    <file name="maplayoutpreview.jpg" crc="380034111" seo="true" ref="shadowgundeadzone_facility"/>
+    <file name="screenshot-5-2000x1125.jpg" crc="4018018325" seo="true" ref="shadowgundeadzone_facility"/>
+    <file name="screenshot-6-2000x1125.jpg" crc="3943095113" seo="true" ref="shadowgundeadzone_facility"/>
+    <file name="screenshot-7-2000x1125.jpg" crc="4149147882" seo="true" ref="shadowgundeadzone_facility"/>
+    <file name="screenshot-8-2000x1125.jpg" crc="482445512" seo="true" ref="shadowgundeadzone_facility"/>
+    <file name="u5393.png" crc="328696067" ref="shadowgundeadzone_facility"/>
+    <file name="u5393-r.png" crc="4051524795" ref="shadowgundeadzone_facility"/>
+    <file name="u5363.png" crc="43641326" ref="shadowgundeadzone_facility"/>
+    <file name="u5363-r.png" crc="4180955575" ref="shadowgundeadzone_facility"/>
+    <file name="hq-layout-1400x791.jpg" crc="3953663078" seo="true" ref="shadowgundeadzone_hq"/>
+    <file name="screenshot-1-2000x1125.jpg" crc="4107172240" seo="true" ref="shadowgundeadzone_hq"/>
+    <file name="screenshot-4-2000x1125.png" crc="4192337216" seo="true" ref="shadowgundeadzone_hq"/>
+    <file name="screenshot-2000x1125.jpg" crc="19802750" seo="true" ref="shadowgundeadzone_hq"/>
+    <file name="u5580.png" crc="328696067" ref="shadowgundeadzone_hq"/>
+    <file name="u5580-r.png" crc="4051524795" ref="shadowgundeadzone_hq"/>
+    <file name="u5579.png" crc="43641326" ref="shadowgundeadzone_hq"/>
+    <file name="u5579-r.png" crc="4180955575" ref="shadowgundeadzone_hq"/>
+    <file name="preview-1400x787.png" crc="4084563890" seo="true" ref="shadowgundeadzone_hq"/>
+    <file name="playbuton.png" crc="288953068" seo="true" ref="elementalgame:battle-champions"/>
+    <file name="elementalpreview-1400x843-682.jpg" crc="186943667" seo="true" ref="elementalgame"/>
+    <file name="tctitle-crop-u2107.jpg" crc="140848215" ref="index"/>
+    <file name="maskgun-crop-u2065.jpg" crc="145407208" ref="index"/>
+    <file name="img_1842-crop-u6280.jpg" crc="114930413" ref="index"/>
+    <file name="img_1841.png" crc="275445283" seo="true" ref="rival-stars-horse-racing"/>
+    <file name="img_1837.jpg" crc="507484123" seo="true" ref="rival-stars-horse-racing"/>
+    <file name="img_1840.jpg" crc="420799006" seo="true" ref="rival-stars-horse-racing"/>
+    <file name="img_1827.jpg" crc="3949414045" seo="true" ref="rival-stars-horse-racing"/>
+    <file name="img_1836.jpg" crc="4020938353" seo="true" ref="rival-stars-horse-racing"/>
+    <file name="img_1838.jpg" crc="163621174" seo="true" ref="rival-stars-horse-racing"/>
+    <file name="u6032.png" crc="401460054" ref="rival-stars-horse-racing"/>
+    <file name="u6032-r.png" crc="306637575" ref="rival-stars-horse-racing"/>
+    <file name="u6067.png" crc="4054084491" ref="rival-stars-horse-racing"/>
+    <file name="u6067-r.png" crc="367522155" ref="rival-stars-horse-racing"/>
+    <file name="tctitle-crop-u6236.jpg" crc="3875412882" ref="home-copy"/>
+    <file name="maskgun-crop-u6240.jpg" crc="145407208" ref="home-copy"/>
+    <file name="heroupgrade-crop-u6395.jpg" crc="470420055" ref="battle-champions"/>
+    <file name="gameplay-crop-u6385.png" crc="514646681" ref="battle-champions"/>
+    <file name="weaponcrafting-crop-u6411.jpg" crc="157946088" ref="battle-champions"/>
+    <file name="youtubeicon-crop-u6343.png" crc="4085375782" ref="battle-champions"/>
+    <file name="heroupgrade-crop-u6478.jpg" crc="4127710637" ref="personalprojects"/>
+    <file name="gameplay-crop-u6476.png" crc="112107247" ref="personalprojects"/>
+    <file name="weaponcrafting-crop-u6480.jpg" crc="151258896" ref="personalprojects"/>
+    <file name="heroupgrade-crop-u6506.jpg" crc="4127710637" ref="personalprojects-copy-2"/>
+    <file name="gameplay-crop-u6508.png" crc="112107247" ref="personalprojects-copy-2"/>
+    <file name="weaponcrafting-crop-u6502.jpg" crc="151258896" ref="personalprojects-copy-2"/>
+  </folder>
+  <file name="index.html" crc="4233744998" seo="true" mt="1608977639208" redirect="true"/>
+  <file name="blogs.html" crc="385945681" seo="true" mt="1600551580246" redirect="true"/>
+  <file name="maskgun.html" crc="169438612" seo="true" mt="1600551580246" redirect="true"/>
+  <file name="towerconquest.html" crc="40150669" seo="true" mt="1600551580246" redirect="true"/>
+  <file name="ninjumpdash.html" crc="357516688" seo="true" mt="1600551580246" redirect="true"/>
+  <file name="about.html" crc="4240983433" seo="true" mt="1600557694753" redirect="true"/>
+  <file name="pop2.html" crc="3917233896" seo="true" mt="1600551580246" redirect="true"/>
+  <file name="monstertruck.html" crc="3847855399" seo="true" mt="1600551580246" redirect="true"/>
+  <file name="rise-of-defenders.html" crc="3889948884" seo="true" mt="1600551580246" redirect="true"/>
+  <file name="krishnarun.html" crc="383757676" seo="true" mt="1600551580246" redirect="true"/>
+  <file name="nexuiz_garden.html" crc="4250233575" seo="true" mt="1600551580246" redirect="true"/>
+  <file name="nexuiz_facility.html" crc="3838091918" seo="true" mt="1600551580246" redirect="true"/>
+  <file name="shadowgundeadzone_facility.html" crc="266029146" seo="true" mt="1600551580246" redirect="true"/>
+  <file name="shadowgundeadzone_hq.html" crc="509529915" seo="true" mt="1600551580246" redirect="true"/>
+  <file name="elementalgame.html" crc="3851165424" seo="true" mt="1600551580246" redirect="true"/>
+  <file name="personalprojects.html" crc="158660742" seo="true" mt="1610749455352" redirect="true"/>
+  <file name="rival-stars-horse-racing.html" crc="81870951" seo="true" mt="1608977700763" redirect="true"/>
+  <file name="home-copy.html" crc="117236468" seo="true" mt="1608977246641" redirect="true"/>
+  <file name="battle-champions.html" crc="134782811" seo="true" mt="1609232649486" redirect="true"/>
+  <file name="personalprojects-copy.html" crc="456221923" seo="true" mt="1609232738638" redirect="true"/>
+  <file name="personalprojects-copy-2.html" crc="4145306873" seo="true" mt="1610749514438" redirect="true"/>
+</manifest>
